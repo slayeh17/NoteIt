@@ -24,6 +24,10 @@ php artisan serve
 ```
 Open `http://localhost:8000` to see the website in action 👍
 
+## If you face any issue like I did 😅 follow these two links to solve this issue (Linux Only)
+1. https://sentry.io/answers/laravel-requirements-could-not-be-resolved/
+2. https://stackoverflow.com/questions/64381185/laravel-and-phpunit-could-not-find-driver-sql-pragma-foreign-keys-on
+
 ## Some glimpses
 ### Login
 ![Screenshot 2024-05-20 080009](https://github.com/slayeh17/NoteIt/assets/104914725/f66ed245-0d64-4d14-abb6-bbc11e619d99)
